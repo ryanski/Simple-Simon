@@ -1,0 +1,109 @@
+#blue {
+	/*background-color: blue*/
+	background-image: url("http://cliparts.co/cliparts/pT7/K8A/pT7K8AXec.png");
+	background-size: 95%;
+	background-repeat: no-repeat;
+	margin-top: 120px;
+
+}
+
+#green {
+	/*background-color: green*/
+	background-image: url("http://vignette1.wikia.nocookie.net/clubpenguin/images/7/7a/Puffer_Fish_Pin.PNG/revision/20150316012845");
+	background-size: 84%;
+	background-repeat: no-repeat;
+	margin-top: 120px;
+}
+
+#red {
+	/*background-color: red*/
+	background-image: url("http://thumbs.dreamstime.com/t/cute-starfish-cartoon-illustration-isolated-white-54662403.jpg");
+	background-size: 77%;
+	background-repeat: no-repeat;
+}
+
+
+#orange {
+	/*background-color: orange*/
+	background-image: url("http://www.clipartbest.com/cliparts/pT5/og9/pT5og9qTB.jpeg");
+	background-size: 98%;
+	background-repeat: no-repeat;
+}
+
+.lightbuttons {
+	height: 150px;
+	width: 200px;
+	opacity: 0.4;
+	margin-left: 45px;
+	/*outline: none;*/
+
+}
+
+#startbutton {
+	margin-left: 125px;
+	height: 50px;
+	width: 300px;
+}
+
+#box {
+	height: 425px;
+	width: 550px;
+}
+#bowl {
+	background-image: url("http://www.clipartbest.com/cliparts/dir/e76/dire766i9.png");
+	background-repeat: no-repeat;
+	background-size:  cover;
+	height: 425px;
+	width: 550px;
+	/*opacity: 0.5;*/
+	}
+
+	
+#startbutton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #cae3fc;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #cae3fc;
+	box-shadow:inset 0px 1px 0px 0px #cae3fc;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #4197ee) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #4197ee 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#4197ee');
+	background-color:#79bbff;
+	-webkit-border-top-left-radius:0px;
+	-moz-border-radius-topleft:0px;
+	border-top-left-radius:0px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:0px;
+	-moz-border-radius-bottomright:0px;
+	border-bottom-right-radius:0px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border:1px solid #469df5;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Courier New;
+	font-size:18px;
+	font-weight:bold;
+	font-style:normal;
+	height:40px;
+	line-height:40px;
+	width:300px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #287ace;
+}
+#startgame:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4197ee), color-stop(1, #79bbff) );
+	background:-moz-linear-gradient( center top, #4197ee 5%, #79bbff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#4197ee', endColorstr='#79bbff');
+	background-color:#4197ee;
+}
+#startgame:active {
+	position:relative;
+	top:1px;
+}
+
+/* This button was generated using CSSButtonGenerator.com */
+
