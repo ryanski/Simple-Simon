@@ -44,7 +44,7 @@ $("#startbutton").prop("disabled", true)
 }
 
 $(".lightbuttons").click(function(){
-	var idpicked= $(this).attr("id");
+	var idpicked=  
 	userinput.push(idpicked);
 	//console.log(userinput);
 		if(simonsequence[userinput.length-1]!==userinput[userinput.length-1]){
@@ -60,11 +60,11 @@ $(".lightbuttons").click(function(){
 });
 
 $("#blue").click(function() {
-$("#dory").get(0).play();
+	$("#dory").get(0).play();
 });
 
 $("#green").click(function() {
-$("#puffer").get(0).play();
+	$("#puffer").get(0).play();
 });
 
 	//for (var i=0; i<simonsequence.length; i++)
